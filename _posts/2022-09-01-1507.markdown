@@ -1,0 +1,30 @@
+---
+layout: post
+title: MX 1.5mm,两边扣(504051), 端子, 胶壳, 针座
+date:   2022-09-01 13:57:38 +0800
+category: 1.5
+permalink: /housing-terminal/97-98-1507.html
+excerpt: Pitch 1.5mm
+image:  1507.jpg
+tags: 1.5
+---
+
+__MX 1.5mm 两边扣(504051)系列__
+
+* Pitch: 1.5mm
+* AWG: 24AWG~30AWG
+* 2-20pin
+* 2A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：125V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[1.5 母，端子](/assets/2022/97-1507-T.pdf)
+
+__胶壳__
+
+* 图纸 →　[1.5 公，壳子](/assets/2022/98-1507-H.pdf)

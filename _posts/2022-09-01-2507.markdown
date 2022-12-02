@@ -1,0 +1,32 @@
+---
+layout: post
+title: SM 2.5mm, 端子，胶壳，空接
+date:   2022-09-01 13:57:38 +0800
+category: 2.5
+permalink: /housing-terminal/225-228-2507.html
+excerpt: Pitch 2.5mm
+image:  2507.jpg
+tags: 2.5
+---
+
+__SM 2.5mm系列__
+
+* Pitch: 2.5mm
+* AWG: 24AWG~30AWG
+* 2-16pin
+* 3A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：250150V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[公，端子](/assets/2022/226-2507-SM-TM-YL.pdf)
+* 图纸 →　[母，端子](/assets/2022/227-2507-SM-TF-ZUOL.pdf)
+
+__胶壳__
+
+* 图纸 →　[母，胶壳](/assets/2022/225-2507-SM-HF-ZL.pdf)
+* 图纸 →　[公，胶壳](/assets/2022/228-2507-SM-HM-ZUOL.pdf)

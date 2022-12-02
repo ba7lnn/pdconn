@@ -1,0 +1,35 @@
+---
+layout: post
+title: 1.58mm,空接端子, 胶壳, 针座
+date:   2022-09-01 13:57:38 +0800
+category: 1.58
+permalink: /housing-terminal/101-106-1508.html
+excerpt: Pitch 1.58mm
+image:  none.png
+tags: 1.58
+---
+
+__1.58mm 空接系列__
+
+* Pitch: 1.58mm
+* AWG: 18AWG~22AWG
+* 2-20pin
+* 3A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：250V
+* 颜色：黑，透明
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[1.58 公，端子](/assets/2022/105-1058-TM-HZ.pdf)
+* 图纸 →　[1.58 母，端子](/assets/2022/106-1058-TF-HZ.pdf)
+
+__胶壳__
+
+* 图纸 →　[1.58 公, 1x3，壳子](/assets/2022/101-1058-HM-HZ.pdf)
+* 图纸 →　[1.58 母, 1x3，壳子](/assets/2022/102-1058-HF-HZ.pdf)
+* 图纸 →　[1.58 公，有耳, 1x2，壳子](/assets/2022/103-1058-HM-HZ.pdf)
+* 图纸 →　[1.58 母，有耳, 1x2，壳子](/assets/2022/104-1058-HF-HZ.pdf)
+

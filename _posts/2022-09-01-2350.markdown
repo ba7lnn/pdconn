@@ -1,0 +1,29 @@
+---
+layout: post
+title: 2.35mm,  公、母管状端子
+date:   2022-09-01 13:57:38 +0800
+category: 2.35
+permalink: /housing-terminal/197-198-2350.html
+excerpt: Pitch 2.35mm
+image:  none.png
+tags: 2.35
+---
+
+__2.35mm,  公、母管状端子系列__
+
+* Pitch: 2.0mm
+* AWG: 24AWG~30AWG
+* 2-16pin
+* 1A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：150V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+
+__2.35mm,  公、母管状端子__
+
+* 图纸 →　[2.35mm,  公, 管状端子](/assets/2022/197-2350-TM-ZK.pdf)
+
+* 图纸 →　[2.35mm,  母, 管状端子](/assets/2022/198-2350-TF-ZK.pdf)

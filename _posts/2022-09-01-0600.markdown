@@ -1,0 +1,33 @@
+---
+layout: post
+title:  0.6mm剌破，2-16pin, 36AWG 0.2A,34AWG 0.3A
+date:   2022-09-01 13:57:38 +0800
+category: 06
+permalink: /housing-terminal/3-4-0600.html
+excerpt: Pitch 0.6mm, 2-16PIN
+image:  none.png
+tags: 0.6
+---
+
+
+__0.6 剌破系列__
+
+* Pitch: 0.5mm
+* 2-16pin
+* 0.2A, AC,DC(36AWG)
+* 0.3A, AC,DC(34AWG)
+* 额定电压：30V
+* 颜色：本色(黑、白）
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+* 0.5 卧式贴片
+* -25℃ ~ 85℃
+
+
+__插头（胶壳) (0.6 剌破)__
+
+* 图纸 →　[0.6 剌破系列](/assets/2022/3-0600HS.pdf)
+
+__针座，卧式 (0.6 剌破)__
+
+* 图纸 →　[0.6 剌破针座，卧式](/assets/2022/4-0600HS.pdf)

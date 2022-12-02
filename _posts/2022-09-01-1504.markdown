@@ -1,0 +1,35 @@
+---
+layout: post
+title: MX 1.5mm(1515), 端子, 胶壳, 针座, 双排
+date:   2022-09-01 13:57:38 +0800
+category: 1.5
+permalink: /housing-terminal/90-92-1504.html
+excerpt: Pitch 1.5mm
+image:  none.png
+tags: 1.5
+---
+
+__MX 1.5mm打插系列__
+
+* Pitch: 1.5mm
+* AWG: 24AWG~30AWG
+* 2-20pin
+* 2A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：125V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[1.5 母，端子](/assets/2022/90-1504-1515-T-SL.pdf)
+
+__胶壳__
+
+* 图纸 →　[1.5 公，壳子](/assets/2022/91-1504-1515-H-SL.pdf)
+
+__针座__
+
+* 图纸 →　[1.5 立贴，有盖](/assets/2022/92-1504-1515-WF-SL.pdf)
+

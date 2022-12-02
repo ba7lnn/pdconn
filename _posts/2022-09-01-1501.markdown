@@ -1,0 +1,42 @@
+---
+layout: post
+title: ZH 1.5mm, 端子, 胶壳公，母, 针座,贴片
+date:   2022-09-01 13:57:38 +0800
+category: 1.5
+permalink: /housing-terminal/75-82-1501.html
+excerpt: Pitch 1.5mm
+image:  none.png
+tags: 1.5
+---
+
+
+__ZH 1.5mm打插系列__
+
+
+* Pitch: 1.5mm
+* AWG: 24AWG~30AWG
+* 2-20pin
+* 0.7A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：125V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[1.5 母，端子](/assets/2022/75-1501-ZH15-T.pdf)
+* 图纸 →　[1.5 公，端子](/assets/2022/76-1501-ZH15-T.pdf)
+
+
+__胶壳__
+
+* 图纸 →　[1.5 公，壳子](/assets/2022/77-1501-ZH15-H.pdf)
+* 图纸 →　[1.5 母，壳子](/assets/2022/78-1501-ZH15-H.pdf)
+
+__针座__
+
+* 图纸 →　[1.5 直针DIP](/assets/2022/79-1501-ZH15-DIP-ZHOL.pdf)
+* 图纸 →　[1.5 弯针](/assets/2022/80-1501-ZH15-ZHOL.pdf)
+* 图纸 →　[1.5 立贴](/assets/2022/81-1501-ZH15-ZT.pdf)
+* 图纸 →　[1.5 卧贴](/assets/2022/82-1501-ZH15-ZT.pdf)

@@ -1,0 +1,38 @@
+---
+layout: post
+title:  NH 1.0mm,带扣，端子，针座，2-19pin
+date:   2022-09-01 13:57:38 +0800
+category: 1.0
+permalink: /housing-terminal/22-26-01005.html
+excerpt: Pitch 1.0mm, 2-16PIN
+image:  none.png
+tags: 1.0
+---
+
+
+__NH 1.0 打插系列__
+
+* Pitch: NH1.0mm
+* AWG: 28AWG~32AWG
+* 2-20pin
+* 1A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：30V
+* 颜色：本色(黑、白）
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+* 卧贴， 立贴
+
+__端子 (1.0 打插)__
+
+* 图纸 →　[1.0 端子](/assets/2022/22-NH1005-XR.pdf)
+
+__胶壳 (1.0 打插)__
+
+* 图纸 →　[1.0，单排，带扣](/assets/2022/23-NH10005-B-XR.pdf)
+
+__针座 (1.0 打插)__
+
+* 图纸 →　[1.0 单排，立贴，带扣](/assets/2022/24-NH10005-HXL.pdf)
+* 图纸 →　[1.0 单排，卧贴，带扣](/assets/2022/25-NH10005-XR.pdf)
+* 图纸 →　[1.0 单排，卧贴，有槽](/assets/2022/26-NH11005-XR.pdf)

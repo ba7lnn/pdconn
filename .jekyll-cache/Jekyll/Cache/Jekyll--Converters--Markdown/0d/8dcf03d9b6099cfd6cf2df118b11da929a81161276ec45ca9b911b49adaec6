@@ -1,0 +1,56 @@
+I"�<p><strong>杜邦2.5mm 2.54mm系列</strong></p>
+
+<ul>
+  <li>Pitch: 2.5mm</li>
+  <li>AWG: 24AWG~30AWG</li>
+  <li>2-16pin</li>
+  <li>3A, AC,DC</li>
+  <li>-25℃ ~ 85℃</li>
+  <li>额定电压：250150V</li>
+  <li>颜色：白</li>
+  <li>阻燃等级：UL94V-0</li>
+  <li>端子: 铜合金</li>
+</ul>
+
+<p><strong>端子</strong></p>
+
+<ul>
+  <li>图纸 →　<a href="/assets/2022/254-2504-T.pdf">公, 端子</a></li>
+  <li>图纸 →　<a href="/assets/2022/255-2504-TC3.pdf">母, 端子, TC3松紧</a></li>
+  <li>图纸 →　<a href="/assets/2022/256-2504-TC4.pdf">母, 端子, TC4松紧</a></li>
+</ul>
+
+<p><strong>胶壳</strong></p>
+
+<ul>
+  <li>图纸 →　<a href="/assets/2022/256-2504-H.pdf">公，带凸</a></li>
+  <li>
+    <p>图纸 →　<a href="/assets/2022/258-2504-H-SY.pdf">公，无凸，单排</a></p>
+  </li>
+  <li>图纸 →　<a href="/assets/2022/259-2504-H-XJS.pdf">公，低凸，双排</a></li>
+  <li>
+    <p>图纸 →　<a href="/assets/2022/260-2504-H.pdf">公，高凸，双排</a></p>
+  </li>
+  <li>图纸 →　<a href="/assets/2022/261-2504-H.pdf">公，无凸，双排</a></li>
+</ul>
+
+<p><strong>针座</strong></p>
+
+<ul>
+  <li>图纸 →　<a href="/assets/2022/266-2504-DIP-XCL.pdf">单排，直针</a> 【Arduino印字排针】</li>
+  <li>
+    <p>图纸 →　<a href="/assets/2022/267-2504-DWR-XCL.pdf">单排，弯针</a></p>
+  </li>
+  <li>图纸 →　<a href="/assets/2022/262-2504-DIP-XCL.pdf">双排，直针</a></li>
+  <li>
+    <p>图纸 →　<a href="/assets/2022/263-2504-WR-XCL.pdf">双排，弯针</a></p>
+  </li>
+  <li>图纸 →　<a href="/assets/2022/264-2504-WVP-XCL.pdf">双排，立贴, 有柱</a></li>
+</ul>
+
+<p><strong>塞子</strong></p>
+
+<ul>
+  <li>图纸 →　<a href="/assets/2022/265-2504-TPA-SY.pdf">塞子</a></li>
+</ul>
+:ET

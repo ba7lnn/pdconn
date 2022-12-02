@@ -1,0 +1,57 @@
+---
+layout: post
+title: XH 2.5mm, 公、母,端子，胶壳，针座，SMT,DIP
+date:   2022-09-01 13:57:38 +0800
+category: 2.5
+permalink: /housing-terminal/199-214-2501.html
+excerpt: Pitch 2.5mm
+image:  none.png
+tags: 2.5
+---
+
+__XH 2.5mm系列__
+
+* Pitch: 2.5mm
+* AWG: 24AWG~30AWG
+* 2-16pin
+* 3A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：250150V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__ 
+
+* 图纸 →　[母，端子](/assets/2022/252-2501-XH25-TF.pdf)
+* 图纸 →　[公，端子](/assets/2022/253-2501-XH25-TM-XJ.pdf)
+
+
+
+__胶壳__
+
+* 图纸 →　[公，无扣](/assets/2022/199-2501-XH-HM.pdf)
+* 图纸 →　[母，无扣](/assets/2022/200-2501-XH-HF-YL.pdf)
+
+* 图纸 →　[公，带扣](/assets/2022/201-2501-XH-HM.pdf)
+* 图纸 →　[母，带扣](/assets/2022/202-2501-XH-HF.pdf)
+
+__针座__
+
+* 图纸 →　[直针，无K](/assets/2022/203-2501-XH-DIP.pdf)
+* 图纸 →　[直针，打K](/assets/2022/204-2501-XH-DIP-K.pdf)
+* 图纸 →　[直针，带扣](/assets/2022/205-2501-XH-DIP.pdf)
+
+* 图纸 →　[弯针，无K, 无定位](/assets/2022/211-2501-XH-DIP-R.pdf)
+* 图纸 →　[弯针，打K, 无定位](/assets/2022/212-2501-XH-DIP-R-K.pdf)
+* 图纸 →　[弯针，无K, 带扣](/assets/2022/213-2501-XH-DIP-R.pdf)
+* 图纸 →　[弯针，无K, 定位柱](/assets/2022/214-2501-XH-DIP-RP.pdf)
+
+* 图纸 →　[立贴，无扣](/assets/2022/206-2501-XH-WV-ZT.pdf)
+* 图纸 →　[卧贴，无扣](/assets/2022/207-2501-XH-WR-ZT.pdf)
+
+
+* 图纸 →　[立贴，带扣](/assets/2022/208-2501-XH-WV-ZT.pdf)
+* 图纸 →　[卧贴，带扣](/assets/2022/209-2501-XH-WR-ZT.pdf)
+
+* 图纸 →　[直针，三叉型](/assets/2022/210-2501-XH-DIP3.pdf)

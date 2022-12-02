@@ -1,0 +1,42 @@
+---
+layout: post
+title: GH 1.25mm, 端子, 胶壳
+date:   2022-09-01 13:57:38 +0800
+category: 1.25
+permalink: /housing-terminal/68-71-1256.html
+excerpt: Pitch 1.25mm
+image:  none.png
+tags: 1.25
+---
+
+
+__GH 1.25打插系列__
+
+
+* Pitch: 1.25mm
+* AWG: 28AWG~32AWG
+* 2-20pin
+* 2A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：125V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+
+__端子__
+
+* 图纸 →　[1.25 母端子](/assets/2022/68-1256-GH125-T-XDYT.pdf)
+
+__胶壳__
+
+* 图纸 →　[1.25 壳子](/assets/2022/69-1256-GH125-H-XDYT.pdf)
+
+__针座__
+
+* 图纸 →　[1.25 立贴](/assets/2022/70-1256-GH125-ZT.pdf)
+* 图纸 →　[1.25 卧贴](/assets/2022/71-1256-GH125-ZT.pdf)
+
+
+
+

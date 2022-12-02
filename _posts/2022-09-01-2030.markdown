@@ -1,0 +1,27 @@
+---
+layout: post
+title: PAD 2.0mm, 胶壳，双排
+date:   2022-09-01 13:57:38 +0800
+category: 2.0
+permalink: /housing-terminal/194-2030.html
+excerpt: Pitch 2.0mm
+image:  none.png
+tags: 2.0
+---
+
+__PAD 2.0mm双排系列__
+
+* Pitch: 2.0mm
+* AWG: 24AWG~30AWG
+* 2-16pin
+* 1A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：150V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+
+__胶壳__
+
+* 图纸 →　[PAD 2.0 胶壳](/assets/2022/194-2030-PAD-H-XL.pdf)

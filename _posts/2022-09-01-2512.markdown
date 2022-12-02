@@ -1,0 +1,32 @@
+---
+layout: post
+title: FUTAOBO 2512 斜角外壳
+date:   2022-09-01 13:57:38 +0800
+category: 2.5
+permalink: /housing-terminal/270-274-2512.html
+excerpt: Pitch 2.5mm
+image:  2512.jpg
+tags: 2.5
+---
+
+__2512 斜角外壳 2.5mm系列__
+
+* Pitch: 2.5mm
+* AWG: 22AWG~28AWG
+* 2-16pin
+* 2A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：250V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+
+__胶壳__
+
+* 图纸 →　[公，胶壳， 斜角](/assets/2022/275-2512-FOTBO-3-XJ.pdf)
+* 图纸 →　[母，胶壳](/assets/2022/276-2512-FOTBO-3.pdf)
+* 图纸 →　[公，胶壳， 直](/assets/2022/277-2512-FOTBO-3.pdf)
+* 图纸 →　[公，胶壳， 直，有边](/assets/2022/278-2512-FOTBO-3.pdf)
+* 图纸 →　[公，胶壳， 直，有边](/assets/2022/279-2512-FOTBO-3.pdf)
+

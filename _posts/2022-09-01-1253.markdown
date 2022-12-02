@@ -1,0 +1,42 @@
+---
+layout: post
+title:  DF14 1.25mm, 端子，胶壳，带扣，针座
+date:   2022-09-01 13:57:38 +0800
+category: 1.25
+permalink: /housing-terminal/57-60-1253.html
+excerpt: Pitch 1.25mm
+image:  none.png
+tags: 1.25
+---
+
+
+__DF14 1.25打插系列__
+
+
+* Pitch: 1.25mm
+* AWG: 28AWG~32AWG
+* 2-20pin
+* 2A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：125V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+
+__端子__
+
+* 图纸 →　[1.25 母端子](/assets/2022/57-1253-DF14-T.pdf)
+
+__胶壳__
+
+* 图纸 →　[1.25 公, 单排](/assets/2022/58-1253-DF14-H-XDYT.pdf)
+* 图纸 →　[1.25 公, 带扣](/assets/2022/60-1253-DF14-H-ZL.pdf)
+
+
+__针座__
+
+* 图纸 →　[1.25 卧贴](/assets/2022/59-1253-DF14.pdf)
+
+
+

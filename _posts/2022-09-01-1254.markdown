@@ -1,0 +1,38 @@
+---
+layout: post
+title:  JAE FIS 1.25mm, 端子，胶壳
+date:   2022-09-01 13:57:38 +0800
+category: 1.25
+permalink: /housing-terminal/61-63-1254.html
+excerpt: Pitch 1.25mm
+image:  none.png
+tags: 1.25
+---
+
+
+__JAE FIS 1.25打插系列__
+
+
+* Pitch: 1.25mm
+* AWG: 28AWG~32AWG
+* 2-20pin
+* 2A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：125V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+
+__端子__
+
+* 图纸 →　[1.25 母端子A1](/assets/2022/61-1254-FIS125-T.pdf)
+* 图纸 →　[1.25 母端子](/assets/2022/62-1254-FIS125-T2.pdf
+)
+
+__胶壳__
+
+* 图纸 →　[1.25 公](/assets/2022/63-1254-FIS125-H.pdf)
+
+
+

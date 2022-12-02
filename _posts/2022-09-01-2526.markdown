@@ -1,0 +1,32 @@
+---
+layout: post
+title: 2526 2.5mm, 端子，胶壳
+date:   2022-09-01 13:57:38 +0800
+category: 2.5
+permalink: /housing-terminal/250-251-2526.html
+excerpt: Pitch 2.5mm
+image:  none.png
+tags: 2.5
+---
+
+__2526 2.5mm系列__
+
+* Pitch: 2.5mm
+* AWG: 20AWG~26AWG OD:1.6mm
+* 2-16pin
+* 8A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：250V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__图纸集合__
+
+__端子__
+
+* 图纸 →　[母, 端子](/assets/2022/251-2526-T-XDYT.pdf)
+
+__胶壳__
+
+* 图纸 →　[公，胶壳](/assets/2022/250-2526-H-XDYT.pdf)

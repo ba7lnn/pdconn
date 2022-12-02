@@ -1,0 +1,28 @@
+---
+layout: post
+title:  0.8mm剌破，有耳、无耳插头，卧贴、立贴，32AWG, 2-20pin
+date:   2022-09-01 13:57:38 +0800
+category: 08
+permalink: /housing-terminal/9-10-0800.html
+excerpt: Pitch 0.8mm, 2-16PIN
+image:  none.png
+tags: 0.8
+---
+
+
+__0.8 剌破系列__
+
+* Pitch: 0.8mm
+* 2-24pin
+* 0.5A, AC,DC(32AWG)
+* -25℃ ~ 85℃
+* 额定电压：30V
+* 颜色：本色(黑）
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+
+__插头（胶壳) (0.8 剌破)__
+
+* 图纸 →　[0.8 剌破有耳](/assets/2022/9-0800.pdf)
+* 图纸 →　[0.8 剌破无耳](/assets/2022/10-0800.pdf)

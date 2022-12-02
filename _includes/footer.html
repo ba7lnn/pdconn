@@ -1,0 +1,18 @@
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
+
+    {% if site.data.settings.mailchimp %}
+    {% include subscribe.html %}
+    {% else %} {% endif %}
+
+    {% if site.data.settings.instagram %}
+    {% include instagram.html %}
+    {% else %} {% endif %}
+
+    {% include contact-link.html %}
+
+    <div class="copyright">地址：广东省东莞市北栅社区太安路虎门段151号 <br/> 手机:(+86)138-0926-3972 Email: pndayw01@foxmail.com  <br/>Copyright &copy; {{site.time | date: '%Y'}} <a href="/">平达电子</a>  All right Reserved.</div>
+</div>
+</footer>
+<!-- end footer -->

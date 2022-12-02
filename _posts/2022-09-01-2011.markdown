@@ -1,0 +1,41 @@
+---
+layout: post
+title: PHB 空接2.0mm 端子, 胶壳, 针座
+date:   2022-09-01 13:57:38 +0800
+category: 2.0
+permalink: /housing-terminal/158-166-PHB-2010.html
+excerpt: Pitch 2.0mm
+image:  none.png
+tags: 2.0
+---
+
+__PHB 2.0mm系列__
+
+* Pitch: 2.0mm
+* AWG: 24AWG~30AWG
+* 2-16pin
+* 1A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：150V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[PHB 2.0 母, 端子](/assets/2022/159-2011-PHB20-TF.pdf)
+* 图纸 →　[PHB 2.0 公, 端子](/assets/2022/158-2011-PHB20-TM.pdf)
+* 图纸 →　[PHB 2.0 公( 短), 端子](/assets/2022/160-2011-PHB20-TM2.pdf)
+
+
+__胶壳__
+
+* 图纸 →　[PHB 2.0 公 胶壳](/assets/2022/161-2011-PHB20-HM.pdf)
+* 图纸 →　[PHB 2.0 母 胶壳](/assets/2022/162-2011-PHB20-HF.pdf)
+
+__针座__
+
+* 图纸 →　[PHB 2.0 弯针,双排，定位柱](/assets/2022/163-2011-PHB20-WRP-KL.pdf)
+* 图纸 →　[PHB 2.0 直针](/assets/2022/164-2011-PHB20-DIP-XR.pdf)
+* 图纸 →　[PHB 2.0 卧贴](/assets/2022/165-2011-PHB20-SMT-R-JK.pdf)
+* 图纸 →　[PHB 2.0 立贴](/assets/2022/166-2011-PHB20-SMT-V-WF.pdf)

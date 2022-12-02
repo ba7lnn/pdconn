@@ -1,0 +1,54 @@
+---
+layout: post
+title: MX 3.0mm 43645,43640 端子, 胶壳, 针座 
+date:   2022-09-01 13:57:38 +0800
+category: 3.0
+permalink: /housing-terminal/292-308-MX30-3001.html
+excerpt: Pitch 3.0mm
+image:  3001.jpg
+tags: 3.0
+---
+
+__MX3.0mm系列__
+
+* Pitch: 3.0mm
+* AWG: 20AWG~24AWG
+* 2-24pin
+* 5A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：250V
+* 颜色：黑
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[MX3.0 公，端子](/assets/2022/292-3001-T-HZ.pdf)
+* 图纸 →　[MX3.0 母，长，低脚](/assets/2022/293-3001-L-TF.pdf)
+* 图纸 →　[MX3.0 母，长，高脚](/assets/2022/294-3001-L-TF.pdf)
+* 图纸 →　[MX3.0 母，短，高脚](/assets/2022/295-3001-S-TF.pdf)
+
+__胶壳__
+
+* 图纸 →　[MX3.0 公，单排](/assets/2022/296-3001-H.pdf)
+* 图纸 →　[MX3.0 母，单排，无耳](/assets/2022/297-3001-H-ZL.pdf)
+* 图纸 →　[MX3.0 母，单排，有耳](/assets/2022/298-3001-H.pdf)
+
+* 图纸 →　[MX3.0 公，双排](/assets/2022/299-3001-D-HM.pdf)
+* 图纸 →　[MX3.0 母，双排，无耳](/assets/2022/300-3001-D-HF.pdf)
+* 图纸 →　[MX3.0 母，双排，有耳](/assets/2022/301-3001-D-HF.pdf)
+
+__针座__
+
+* 图纸 →　[MX3.0 单排，卧贴](/assets/2022/302-3001-WRS-ZL.pdf)
+* 图纸 →　[MX3.0 双排，卧贴](/assets/2022/303-3001-WRSD.pdf)
+* 图纸 →　[MX3.0 双排，立贴](/assets/2022/304-3001-WVSD.pdf)
+* 图纸 →　[MX3.0 双排，弯针，无柱](/assets/2022/305-3001-WRD.pdf)
+* 图纸 →　[MX3.0 双排，弯针，带柱](/assets/2022/306-3001-WRP-XY.pdf)
+* 图纸 →　[MX3.0 双排，直针，带柱](/assets/2022/307-3001-DIP-DP-XY.pdf)
+* 图纸 →　[MX3.0 单排，直针，无柱，无K](/assets/2022/308-3001-DIP-S-XY.pdf)
+
+
+
+
+

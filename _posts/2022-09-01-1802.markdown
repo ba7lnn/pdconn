@@ -1,0 +1,30 @@
+---
+layout: post
+title: MX 1.8mm, 端子, 胶壳, 带扣,只有2pin
+date:   2022-09-01 13:57:38 +0800
+category: 1.8
+permalink: /housing-terminal/107-108-1802.html
+excerpt: Pitch 1.8mm
+image:  none.png
+tags: 1.5
+---
+
+__MX 1.8mm 带扣(504051)__
+
+* Pitch: 1.5mm
+* AWG: 24AWG~30AWG
+* 2-20pin
+* 4A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：350V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[1.8 母，端子](/assets/2022/107-1802-T.pdf)
+
+__胶壳__
+
+* 图纸 →　[1.8 公，壳子](/assets/2022/108-1802-H.pdf)

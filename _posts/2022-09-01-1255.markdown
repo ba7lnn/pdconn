@@ -1,0 +1,43 @@
+---
+layout: post
+title: MX 1.25mm超薄, 端子, 胶壳
+date:   2022-09-01 13:57:38 +0800
+category: 1.25
+permalink: /housing-terminal/64-67-1255.html
+excerpt: Pitch 1.25mm
+image:  none.png
+tags: 1.25
+---
+
+
+__MX 1.25超薄打插系列__
+
+
+* Pitch: 1.25mm
+* AWG: 28AWG~32AWG
+* 2-20pin
+* 2A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：125V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+
+__端子__
+
+* 图纸 →　[1.25 母端子](/assets/2022/65-1255-MX125-T.pdf)
+
+__胶壳__
+
+* 图纸 →　[1.25 MX1.25超薄](/assets/2022/66-1255-MX125-ZL.pdf)
+* 图纸 →　[1.25 MX1.25超薄， 短体带扣](/assets/2022/66-1255-MX125-ZL-2.pdf)
+
+__针座__
+
+* 图纸 →　[1.25 卧贴](/assets/2022/64-1255-MX125.pdf)
+* 图纸 →　[1.25 卧贴2](/assets/2022/67-1255-MX125-GY.pdf)
+
+
+
+

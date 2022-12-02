@@ -1,0 +1,36 @@
+---
+layout: post
+title:  ACH 1.2mm,胶壳，端子, 带扣, 1-5PIN
+date:   2022-09-01 13:57:38 +0800
+category: 1.0
+permalink: /housing-terminal/43-73-72-1201.html
+excerpt: Pitch 1.0mm
+image:  none.png
+tags: 1.0
+---
+
+
+__1.2打插系列__
+
+
+* Pitch: 1.2mm
+* AWG: 28AWG~32AWG
+* 1-5pin
+* 0.5A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：30V
+* 颜色：本色(黑、白）
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[1.2 端子](/assets/2022/72-1201-T-JST-XES.pdf)
+
+__胶壳__
+
+* 图纸 →　[1.2 胶壳](/assets/2022/73-1201-H-JST-XES.pdf)
+
+__针座__
+
+* 图纸 →　[1.2 卧贴](/assets/2022/43-1201-JST-XES.pdf)

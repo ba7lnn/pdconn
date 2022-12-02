@@ -1,0 +1,46 @@
+---
+layout: post
+title: PH 2.0mm, 端子, 胶壳, 针座
+date:   2022-09-01 13:57:38 +0800
+category: 2.0
+permalink: /housing-terminal/109-112-195-196-2001.html
+excerpt: Pitch 2.0mm
+image:  none.png
+tags: 2.0
+---
+
+__PH 2.0mm 系列__
+
+* Pitch: 2.0mm
+* AWG: 24AWG~30AWG
+* 2-16pin
+* 1A, AC,DC
+* -25℃ ~ 85℃
+* 额定电压：250V
+* 颜色：白
+* 阻燃等级：UL94V-0
+* 端子: 铜合金
+
+__端子__
+
+* 图纸 →　[2.0 母，端子](/assets/2022/196-2001-PH20-TF.pdf)
+* 图纸 →　[2.0 公，端子](/assets/2022/195-2001-PH20-TM.pdf)
+
+
+__胶壳__
+
+* 图纸 →　[2.0 公，壳子](/assets/2022/109-2001-PH20-HM.pdf)
+* 图纸 →　[2.0 母，壳子](/assets/2022/110-2001-PH20-HF-JP.pdf)
+* 图纸 →　[2.0 母带扣(SHM200)，壳子](/assets/2022/111-2001-PH20-H-XJ.pdf)
+
+
+__针座__
+
+
+* 图纸 →　[2.0 直针, 打K](/assets/2022/112-2001-PH20-WV-K.pdf)
+* 图纸 →　[2.0 直针, 无K](/assets/2022/113-2001-PH20-WV.pdf)
+* 图纸 →　[2.0 弯针, 无K](/assets/2022/114-2001-PH20-WR-K.pdf)
+* 图纸 →　[2.0 弯针, 无K, 有定位](/assets/2022/115-2001-PH20-WR-KP.pdf)
+* 图纸 →　[2.0 弯针, 打K, 无定位](/assets/2022/116-2001-PH20-WR-K.pdf)
+* 图纸 →　[2.0 立贴](/assets/2022/117-2001-PH20-WV-ZT.pdf)
+* 图纸 →　[2.0 卧贴](/assets/2022/118-2001-PH20-WR-ZT.pdf)
